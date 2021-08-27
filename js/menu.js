@@ -26,5 +26,5 @@ function myFunction(xml) {
 function Deco() {//Comme le bouton de déconnexion est sur le menu cette fonction permet de supprimer tout les données du sessionStorage et de rechargé la page.
 
     sessionStorage.clear();
-    window.location.reload();
+    window.location.replace("index.html");
 }
