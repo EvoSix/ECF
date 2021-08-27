@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" type="image/x-icon" href="img/Red_book.png" />
+	<title>BBiblio 2021</title>
+</head>
+
+<body>
+	<div id="nav"></div>
+
+	<main class="contentpresenter">
+
+		<h1 class="titleh1">Connexion</h1>
+
+		<section id="tablecategory">
+			<p id="error"></p>
+			<form name="firstencounter" action="Index.html" class="connexion" onsubmit="return validateconnection()"
+				method="POST">
+				<input type="text" name="nickname" placeholder="Identifiant">
+				<div>
+					<input type="password" name="passwdtext" id="passwdtext" placeholder="mot de passe"><input
+						type="checkbox" onclick="mdp()">
+				</div>
+				<input type="submit" value="Connexion">
+				<a href="">Mot de passe oublié ?</a>
+				<label onclick="inscriptionHandler()">Créer un compte</label>
+				<!-- ça aurai pu être un check box pour un boutton-->
+				<div id="compte">
+
+					<a href="inscription.html?id=1"> S'inscrire en tant qu'auteur</a>
+					<a href="inscription.html?id=2">S'inscrire en tant que juré</a>
+					<a href="inscription.html?id=3"> S'inscrire en tant qu'editeur</a>
+
+					<!-- la partie connection prend en compte la BDD avec in type d'utilisateur donc on peut regrouper les formulaire de connexion en un seul-->
+				</div>
+			</form>
+
+
+
+		</section>
+
+
+
+
+
+	</main>
+	<footer></footer>
+	<script type="text/javascript" src="js/ul4.js"></script>
+	<script type="text/javascript" src="js/connex.js"></script>
+</body>
+
+</html>

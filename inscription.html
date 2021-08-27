@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://smtpjs.com/v3/smtp.js"></script>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" type="image/x-icon" href="img/Red_book.png" />
+	<title>BBiblio 2021</title>
+</head>
+
+<body>
+	<div id="nav"></div>
+
+	<main class="contentpresenter">
+
+		<h1 class="titleh1"></h1>
+
+		<section id="tablecategory">
+			<!--ce trouve les formulaire d'inscription. La séparation par page peut être plus judicieux mais le contenu étant pauvre, on peut les mettre enssble et evec la propriété HTML -->
+			<div id="insAut">
+				<form name="firstencounter" class="connexion" onsubmit="return inscription()" method="POST">
+					<input type="text" name="firstname" placeholder="Nom">
+
+					<input type="text" name="lastname" placeholder="Prénom">
+					<input type="email" name="mail" placeholder="mail">
+					<label>Lettre de motivation(obligatoire).</label>
+					<input type="submit" value="inscription">
+
+				</form>
+
+
+
+			</div>
+			<div id="insEdit"></div>
+			<div id="insJur">
+
+				<form name="firstencounter" class="connexion" onsubmit="return inscription()" method="POST">
+					<input type="text" name="firstname" placeholder="Nom">
+
+					<input type="text" name="lastname" placeholder="Prénom">
+					<input type="email" name="mail" placeholder="mail">
+					<label>Lettre de motivation(obligatoire).</label>
+					<input type="submit" value="inscription">
+
+				</form>
+
+
+
+
+			</div>
+			<div id="confirmationins"></div>
+
+			<div></div>
+
+		</section>
+
+
+
+
+
+	</main>
+	<script type="text/javascript" src="js/ul4.js"></script>
+	<script type="text/javascript" src="js/inscription.js"></script>
+</body>
+
+</html>

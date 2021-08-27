@@ -1,0 +1,13 @@
+<connex>
+	<identity type="author">
+		<id>Evo06X</id>
+		<passwd>Daftpunk</passwd>
+		<user id="0001"></user>
+	</identity>
+	<identity type="jury">
+		<id>Gaby06</id>
+		<passwd>Forkme05</passwd>
+		<user id="0002"></user>
+	</identity>
+
+</connex>

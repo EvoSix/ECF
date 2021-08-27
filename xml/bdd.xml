@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bibliodiv>
+	<categorie name="Meilleur roman français" id="1">
+		<descritpion>Le drame y est fondé sur l'attention d'un fait ou, plus précisément, d'une intrigue, et sur une recherche méthodique faite de preuves, le plus souvent par une enquête policière ou encore une enquête de détective privé.</descritpion>
+		<book id="001"/>
+		<book id="002"/>
+		<book id="003"/>
+		<book id="010"/>
+		<book id="022"/>
+		<book id="045"/>
+		<book id="056"/>
+		<book id="078"/>
+		<book id="089"/>
+		<book id="202"/>
+		<book id="303"/>
+	</categorie>
+	<categorie name="Meilleur roman étranger" id="2">
+		<descritpion>Le drame y est fondé sur l'attention d'un fait ou, plus précisément, d'une intrigue, et sur une recherche méthodique faite de preuves, le plus souvent par une enquête policière ou encore une enquête de détective privé.</descritpion>
+	<book id="202"/>
+	</categorie>
+	<categorie name="Meilleur documentaire" id="3">
+		<descritpion>Le drame y est fondé sur l'attention d'un fait ou, plus précisément, d'une intrigue, et sur une recherche méthodique faite de preuves, le plus souvent par une enquête policière ou encore une enquête de détective privé.</descritpion>
+	</categorie>
+	<categorie name="Meilleure biographie" id="4">
+		<descritpion>Le drame y est fondé sur l'attention d'un fait ou, plus précisément, d'une intrigue, et sur une recherche méthodique faite de preuves, le plus souvent par une enquête policière ou encore une enquête de détective privé.</descritpion>
+	</categorie>
+
+</bibliodiv>

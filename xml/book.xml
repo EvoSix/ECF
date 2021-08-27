@@ -1,0 +1,81 @@
+<bibliodiv>
+	<book id="001">
+		<titre>Les toiles de la nuit</titre>
+		<author id="0001">Jensen Jacket</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Test</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="002">
+		<titre>Les Boucanier chanteurs</titre>
+		<author id="0001">Lisa Sous</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Test</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="003">
+		<titre>la reine des bouteilles</titre>
+		<author id="0001">Jeffrey Keller</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Test</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="010">
+		<titre>Ben Afflick</titre>
+		<author id="0001">Martin Terrieur</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Test</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="045">
+		<titre>Un soir a portorico</titre>
+		<author id="0001">Alain Bernard</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Dans cet article, nous avons rassemblé certains des meilleurs IDE pour le développement Web. Nous avons également donné un bref aperçu de chacun des IDE pour vous aider à prendre une décision éclairée lors de la sélection d’un IDE.</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="056">
+		<titre>John Weed</titre>
+		<author id="0001">Jenna Montmiraille</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Un IDE de développement Web fait tout ce qu’un simple éditeur de texte fait, mais ils peuvent également être utilisés pour de nombreux processus avancés tels que les tests, l’automatisation, etc. La plupart des IDE de développement Web contiennent généralement un débogueur, un compilateur, un éditeur de code et des plates-formes de test. Un IDE, qui est un ensemble d’outils intégré, simplifie le processus de développement Web</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="078">
+		<titre>Terminatron</titre>
+		<author id="0001">James Camroun</author>
+		<Date>25/02/2021</Date>
+		<synopsis><![CDATA[
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris condimentum luctus condimentum. Donec vulputate tortor vel commodo efficitur. Donec lacinia tempus purus quis maximus. Integer at iaculis ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie, ante congue mattis feugiat, dui est suscipit urna, eu suscipit ligula purus quis massa. Nulla commodo venenatis maximus. Cras vel molestie felis. Suspendisse vel vulputate nulla. Donec dapibus augue eu sapien sodales, eleifend lacinia mauris ullamcorper.</p>
+
+<p>Aliquam erat volutpat. Donec ac purus ac augue convallis tristique. Proin fringilla et justo id rutrum. Vivamus rutrum arcu sed lectus vulputate interdum et vitae arcu. Donec molestie laoreet enim sit amet dictum. Ut vulputate fermentum risus sed laoreet. Nullam commodo elit ut ligula sollicitudin cursus. Duis varius enim non eros rutrum, vitae bibendum arcu luctus. Donec congue tortor at massa sollicitudin tristique. Nam consectetur nisl tellus, id vehicula magna vulputate vel. Integer ut aliquet purus. Quisque viverra varius sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus varius justo at nulla venenatis, interdum porta tortor volutpat. Duis sagittis fermentum sapien, id mattis nisl bibendum bibendum. Integer eleifend orci nec augue dignissim pellentesque.</p>
+
+<p>Phasellus nec neque justo. Etiam dictum, felis sit amet blandit bibendum, eros tellus vehicula purus, eget euismod felis massa vehicula dui. Phasellus rutrum odio eu magna scelerisque, non scelerisque enim pharetra. Praesent gravida fringilla diam eu facilisis. Fusce sed convallis lorem, sit amet fermentum metus. Phasellus ut euismod eros, at consectetur nunc. Mauris luctus neque ac quam bibendum fermentum. Donec lorem mauris, tincidunt nec ultrices id, ullamcorper vel augue. Donec congue commodo est ultrices tincidunt. Phasellus pharetra enim a eros rhoncus, nec gravida ante bibendum. Nullam placerat sem molestie massa feugiat, eu rutrum odio suscipit. Morbi ac urna blandit, mollis velit eu, sollicitudin tellus. Sed sed erat eget nunc porttitor scelerisque eget vel dolor.</p>
+
+<p>Nulla accumsan orci fermentum pretium vestibulum. Quisque metus odio, fermentum eu iaculis eu, auctor lobortis libero. Nam accumsan purus ut mauris lacinia finibus. Maecenas eu convallis tortor. Nulla et tortor ex. Proin quis urna arcu. Praesent imperdiet sed tortor tempus pulvinar. Sed sed orci placerat, lacinia tellus id, iaculis magna. Nulla facilisi.</p>
+
+<p>Phasellus venenatis iaculis tempus. Nullam imperdiet lectus tincidunt auctor vulputate. Aenean hendrerit neque tellus, ac interdum elit imperdiet vel. In ultrices turpis vitae orci euismod, id varius dui ultricies. Proin eget fermentum orci. Curabitur orci purus, tristique vel consectetur non, sodales sed nunc. Mauris scelerisque lorem non massa rutrum interdum. Sed eu hendrerit ex. Donec tempor nisi sed venenatis venenatis.</p>]]></synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="089">
+		<titre>le gentil et le mauvais flic</titre>
+		<author id="0001">Sofi Claire</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Le code Visual Studio est souvent confondu avec Visual Studio, qui est un produit entièrement différent. Le premier est un éditeur de code source tandis que le second est un IDE</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="202">
+		<titre>Soap</titre>
+		<author id="0001">John Price</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Test</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+	<book id="303">
+		<titre>Nova Elite</titre>
+		<author id="0001">Jensen Jacket</author>
+		<Date>25/02/2021</Date>
+		<synopsis>Test</synopsis>
+		<img>img/Defaultbook.png</img>
+	</book>
+</bibliodiv>
